@@ -1,0 +1,38 @@
+*{
+    font-family: 'Josefin Sans',sans-serif;
+}
+body{
+    background-color: #161626;
+}
+.main{
+    margin-top: 120px;
+}
+.row{
+    margin-top: 36px;
+    padding: 0 20px;
+}
+h3{
+    font-size: 1.2rem;
+    margin-top: 12px;   
+    
+}
+.title{
+    margin-bottom: 20px;
+}
+.pagination{
+    margin-top: 24px;
+}
+
+.page-link{
+    background-color: transparent;
+    border: none;
+}
+.active{
+    background-color: black;
+}
+.page-link:hover {
+    background-color: black;
+}
+.contents{
+    margin-top: 20px;
+}
